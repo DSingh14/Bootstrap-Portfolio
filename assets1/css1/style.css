@@ -1,0 +1,11 @@
+a {
+  font-size: 20px;
+  color: white;
+}
+.nav.justify-content-end.mt-10 {
+  margin-top: 10px;
+}
+
+title {
+  color: white;
+}
